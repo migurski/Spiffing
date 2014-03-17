@@ -44,7 +44,6 @@
 			'colour'		=> 'color',
 			'grey'			=> 'gray',
 			'!please'		=> '!important',
-			'transparency'		=> 'opacity',
 			'centre'		=> 'center',
 			'plump'			=> 'bold',
 			'photograph'		=> 'image',
